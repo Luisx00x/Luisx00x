@@ -43,7 +43,7 @@ Durante el Bootcamp de Henry mejoré los conocimientos que venía practicando an
   
   Correo: Lmarcano203@gmail.com
   
-  [Linkedin](linkedin.com/in/luis-alexander-marcano-mundarain-a854421a3)
+  [Linkedin](https://linkedin.com/in/luis-alexander-marcano-mundarain-a854421a3)
 
 <!--
 **Luisx00x/Luisx00x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
