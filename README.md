@@ -10,7 +10,7 @@ Luego de graduarme de ingeniería de sistemas decidí complementar mis conocimie
 
 ### ¿Qué estoy haciendo?
 
-Actualmente estoy dedicando mi tiempo libre en el desarrollo de proyectos para seguir mejorando todo lo aprendido y aprender más aún; siempre hay algo más que aprender, siempre hay algo que se puede mejorar...
+Actualmente estoy dedicando mi tiempo libre en el mejoramiento de los proyectos realizados durante el Bootcamp de Henry para seguir consolidando todo lo aprendido y aprender más aún; siempre hay algo más que aprender, siempre hay algo que se puede mejorar...
 
 ---
 
