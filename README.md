@@ -31,6 +31,7 @@ Durante el Bootcamp de Henry mejoré los conocimientos que venía practicando an
   - **PostgreSQL**
   - **Sequelize**
   - **GIT**
+  - **React Native**
   - **HTML y CSS** (claramente...)
   
   También tengo conocimiento en Photoshop y modelado en Blender ⚡.
