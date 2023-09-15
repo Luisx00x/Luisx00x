@@ -25,7 +25,7 @@ Marcar una diferencia, por medio de mi código y la aplciación del pensamiento 
 Durante el Bootcamp de Henry mejoré los conocimientos que venía practicando antes de entrar al Bootcamp y adquirí nuevos con los cuales complementar todo y enfocar la dirección que queria tomar en mi carrera. Entre las principales tecnologías que manejo estan:
 
   - **JavaScript** (de mi corazón...)
-  - **React.js**
+  - **React.js** => Next.js
   - **Node.Js**
   - **Express.js**
   - **PostgreSQL**
